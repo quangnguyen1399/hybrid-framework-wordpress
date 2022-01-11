@@ -10,21 +10,29 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.BaseTest;
+import pageObject.nopCommerce.AboutUsPageObject;
 import pageObject.nopCommerce.CustomerInforPageObject;
 import pageObject.nopCommerce.HomePageObject;
 import pageObject.nopCommerce.LoginPageObject;
+import pageObject.nopCommerce.NewsPageObject;
 import pageObject.nopCommerce.PageGeneratorManager;
 import pageObject.nopCommerce.RegisterPageObject;
+import pageObject.nopCommerce.ShoppingCartPageObject;
+import pageObject.nopCommerce.SiteMapPageObject;
 
 
 
-public class Level_06_Login_Page_Generator_Part_III extends BaseTest {
+public class Level_07_Login_Page_Switch_Page extends BaseTest {
 	
 	WebDriver driver;
 	HomePageObject homePage;
 	LoginPageObject loginPage;
 	RegisterPageObject registerPage;
 	CustomerInforPageObject customerInforPage;
+	SiteMapPageObject siteMapPage;
+	ShoppingCartPageObject shoppingCartPage;
+	NewsPageObject newsPage;
+	AboutUsPageObject aboutUsPage;
 	//PageGeneratorManager pageGenerator;
 	
 	String emailAddress;
@@ -84,6 +92,24 @@ public class Level_06_Login_Page_Generator_Part_III extends BaseTest {
 		Assert.assertEquals(customerInforPage.getEmailTextboxValue(), emailAddress);
 		
 	}
+	@Test
+	public void User_04_Switch_Page() {
+		// Customer -> Site Map
+		siteMapPage = customerInforPage.openSiteMapLink(driver);
+		
+		//Site Map -> News
+		newsPage = siteMapPage.openNewsLink(driver);
+		
+		//News -> Shopping Cart
+		shoppingCartPage = newsPage.openShoppingCartLink(driver);
+		
+		//Shopping Cart -> About Us
+		aboutUsPage = shoppingCartPage.openAboutUsLink(driver);
+		
+		homePage = aboutUsPage.openHomePage(driver);
+		
+	}
+
 	@AfterClass
 	public void afterClass() {
 		

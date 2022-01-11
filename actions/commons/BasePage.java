@@ -14,6 +14,16 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObject.nopCommerce.AboutUsPageObject;
+import pageObject.nopCommerce.HomePageObject;
+import pageObject.nopCommerce.NewsPageObject;
+import pageObject.nopCommerce.PageGeneratorManager;
+import pageObject.nopCommerce.ShoppingCartPageObject;
+import pageObject.nopCommerce.SiteMapPageObject;
+
+import pageUIs.nopCommerce.BasePageUI;
+
+
 public class BasePage {
 	
 	public static BasePage getBasePage() {
@@ -356,6 +366,42 @@ public class BasePage {
 		WebDriverWait explicitWait = new WebDriverWait(driver, longTimeout);
 		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(locator)));
 	}
+	// common Page Object
+	public ShoppingCartPageObject openShoppingCartLink(WebDriver driver) {
+		waitForElementClickable(driver, BasePageUI.SHOPPING_CART_LINK);
+		clickToElement(driver, BasePageUI.SHOPPING_CART_LINK);
+		return PageGeneratorManager.getShoppingCartPage(driver);
+	}
+	
+	public HomePageObject openHomePage(WebDriver driver) {
+		waitForElementClickable(driver, BasePageUI.HOME_PAGE_LINK);
+		clickToElement(driver, BasePageUI.HOME_PAGE_LINK);
+		return PageGeneratorManager.getHomePage(driver);
+	}
+	
+	public SiteMapPageObject openSiteMapLink(WebDriver driver) {
+		waitForElementClickable(driver, BasePageUI.SITE_MAP_LINK);
+		clickToElement(driver, BasePageUI.SITE_MAP_LINK);
+		return PageGeneratorManager.getSiteMapPage(driver);
+		 
+	}
+	
+	public AboutUsPageObject openAboutUsLink(WebDriver driver) {
+		waitForElementClickable(driver, BasePageUI.ABOUT_US_LINK);
+		clickToElement(driver, BasePageUI.ABOUT_US_LINK);
+		return PageGeneratorManager.getAboutUsPage(driver);
+	}
+	
+	public NewsPageObject openNewsLink(WebDriver driver) {
+		waitForElementClickable(driver, BasePageUI.NEWS_LINK);
+		clickToElement(driver, BasePageUI.NEWS_LINK);
+		return PageGeneratorManager.getNewsPage(driver);
+		
+		
+	}
+
+
+	
 	
 	
 	private long longTimeout = 30;

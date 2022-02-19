@@ -1,0 +1,21 @@
+[ {
+  "uid" : "20de6eddf85aecb5",
+  "name" : "Login_01_Register",
+  "time" : {
+    "start" : 1642309059826,
+    "stop" : 1642309067186,
+    "duration" : 7360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d50699db44f03ee",
+  "name" : "TC_02_Login",
+  "time" : {
+    "start" : 1642309067328,
+    "stop" : 1642309072446,
+    "duration" : 5118
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

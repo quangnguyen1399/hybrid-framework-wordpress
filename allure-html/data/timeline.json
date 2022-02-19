@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-RCFES7K",
+    "children" : [ {
+      "name" : "9560@DESKTOP-RCFES7K.main(1)",
+      "children" : [ {
+        "name" : "TC_02_Login",
+        "uid" : "9d50699db44f03ee",
+        "parentUid" : "a9f5cf9765f2139f880a1feb3b4d0651",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642309067328,
+          "stop" : 1642309072446,
+          "duration" : 5118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+      }, {
+        "name" : "Login_01_Register",
+        "uid" : "20de6eddf85aecb5",
+        "parentUid" : "a9f5cf9765f2139f880a1feb3b4d0651",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642309059826,
+          "stop" : 1642309067186,
+          "duration" : 7360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+      } ],
+      "uid" : "a9f5cf9765f2139f880a1feb3b4d0651"
+    } ],
+    "uid" : "0b478a792c2cf7c2faa08137787658fb"
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.nopcommerce.user.Level_14_Login_Log_Allure_Report",
+    "children" : [ {
+      "name" : "Login_01_Register",
+      "uid" : "20de6eddf85aecb5",
+      "parentUid" : "5bb401436d4ca6657c7e8f213a1fb573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642309059826,
+        "stop" : 1642309067186,
+        "duration" : 7360
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+    }, {
+      "name" : "TC_02_Login",
+      "uid" : "9d50699db44f03ee",
+      "parentUid" : "5bb401436d4ca6657c7e8f213a1fb573",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642309067328,
+        "stop" : 1642309072446,
+        "duration" : 5118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+    } ],
+    "uid" : "com.nopcommerce.user.Level_14_Login_Log_Allure_Report"
+  } ]
+}

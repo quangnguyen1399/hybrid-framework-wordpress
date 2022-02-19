@@ -1,0 +1,522 @@
+[INFO ] [2022-01-15 22:49:52,912] Register - Step 1: Open Home Page
+[INFO ] [2022-01-15 22:49:52,929] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 08:38:56,748] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 08:38:56,794] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 08:38:56,926]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:38:56,927] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 08:38:56,977]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:38:56,977] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 08:38:58,626] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 08:38:58,715] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 08:38:58,852] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 08:38:58,960] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 08:38:59,029] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 08:38:59,088] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 08:38:59,164] Register - Step 11: Input to Email textbox with value: quang1514@gmail.com
+[INFO ] [2022-01-16 08:38:59,317] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 08:38:59,484] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:38:59,777] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 08:39:00,711] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 08:39:00,761]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:39:00,795] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 08:40:33,013] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 08:40:33,018] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 08:40:33,129]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:40:33,130] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 08:40:33,197]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:40:33,197] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 08:40:34,696] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 08:40:34,782] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 08:40:34,909] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 08:40:35,033] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 08:40:35,103] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 08:40:35,169] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 08:40:35,236] Register - Step 11: Input to Email textbox with value: quang833@gmail.com
+[INFO ] [2022-01-16 08:40:35,362] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 08:40:35,473] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:40:35,710] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 08:40:37,266] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 08:40:37,317]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:40:37,317] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 08:40:38,885] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 08:40:40,146] Register - Step 2: Input to Email textbox with value: quang833@gmail.com
+[INFO ] [2022-01-16 08:40:40,247] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:40:40,349] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 08:40:42,794] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 08:40:42,852]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:40:42,852] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 08:40:42,894]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:42:31,470] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 08:42:31,478] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 08:42:31,601]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:42:31,602] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 08:42:31,666]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:42:31,666] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 08:42:33,133] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 08:42:33,219] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 08:42:33,341] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 08:42:33,457] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 08:42:33,528] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 08:42:33,593] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 08:42:33,661] Register - Step 11: Input to Email textbox with value: quang1663@gmail.com
+[INFO ] [2022-01-16 08:42:33,789] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 08:42:33,901] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:42:34,134] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 08:42:35,697] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 08:42:35,744]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:42:35,744] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 08:42:37,503] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 08:42:38,020] Register - Step 2: Input to Email textbox with value: quang1663@gmail.com
+[INFO ] [2022-01-16 08:42:38,141] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:42:38,241] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 08:42:40,718] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 08:42:40,769]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:42:40,769] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 08:42:40,813]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:45:50,723] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 08:45:50,729] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 08:45:50,856]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:45:50,857] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 08:45:50,926]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:45:50,927] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 08:45:52,420] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 08:45:52,504] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 08:45:52,630] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 08:45:52,748] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 08:45:52,824] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 08:45:52,904] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 08:45:52,974] Register - Step 11: Input to Email textbox with value: quang2234@gmail.com
+[INFO ] [2022-01-16 08:45:53,140] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 08:45:53,280] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:45:53,528] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 08:45:55,780] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 08:45:55,832]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 08:45:55,832] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 08:45:57,399] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 08:45:57,931] Register - Step 2: Input to Email textbox with value: quang2234@gmail.com
+[INFO ] [2022-01-16 08:45:58,044] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 08:45:58,134] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 08:45:59,852] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 08:45:59,909]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 08:45:59,909] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 08:45:59,952]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:17:31,708] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 09:17:31,712] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 09:17:31,811]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:17:31,812] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 09:17:31,875]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:17:31,875] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 09:17:33,374] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 09:17:33,469] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 09:17:33,587] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 09:17:33,708] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 09:17:33,780] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 09:17:33,848] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 09:17:33,916] Register - Step 11: Input to Email textbox with value: quang2235@gmail.com
+[INFO ] [2022-01-16 09:17:34,050] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 09:17:34,159] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:17:34,381] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 09:17:35,254] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 09:17:35,306]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 09:17:35,307] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 09:17:36,922] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 09:17:37,527] Register - Step 2: Input to Email textbox with value: quang2235@gmail.com
+[INFO ] [2022-01-16 09:17:37,645] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:17:37,744] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 09:17:39,524] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 09:17:39,602]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:17:39,602] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 09:17:39,669]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:27:20,521] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 09:27:20,526] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 09:27:20,607]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:27:20,609] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 09:27:20,666]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:27:20,666] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 09:27:22,167] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 09:27:22,257] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 09:27:22,383] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 09:27:22,498] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 09:27:22,573] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 09:27:22,634] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 09:27:22,695] Register - Step 11: Input to Email textbox with value: quang5802@gmail.com
+[INFO ] [2022-01-16 09:27:22,829] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 09:27:22,936] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:27:23,146] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 09:27:25,410] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 09:27:25,462]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 09:27:25,462] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 09:27:27,018] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 09:27:27,516] Register - Step 2: Input to Email textbox with value: quang5802@gmail.com
+[INFO ] [2022-01-16 09:27:27,636] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:27:27,742] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 09:27:28,629] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 09:27:28,698]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:27:28,699] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 09:27:28,752]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:28:49,283] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 09:28:49,290] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 09:28:49,382]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:28:49,383] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 09:28:49,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:28:49,443] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 09:28:50,947] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 09:28:51,032] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 09:28:51,157] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 09:28:51,282] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 09:28:51,350] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 09:28:51,411] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 09:28:51,478] Register - Step 11: Input to Email textbox with value: quang8940@gmail.com
+[INFO ] [2022-01-16 09:28:51,604] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 09:28:51,716] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:28:51,942] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 09:28:54,181] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 09:28:54,231]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 09:28:54,232] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 09:28:55,077] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 09:28:55,575] Register - Step 2: Input to Email textbox with value: quang8940@gmail.com
+[INFO ] [2022-01-16 09:28:55,713] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:28:55,839] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 09:28:58,331] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 09:28:58,397]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:28:58,397] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 09:28:58,447]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:54:40,734] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 09:54:40,739] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 09:54:40,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:54:40,834] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 09:54:40,893]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:54:40,893] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 09:54:41,510] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 09:54:41,599] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 09:54:41,721] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 09:54:41,844] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 09:54:41,923] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 09:54:41,992] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 09:54:42,060] Register - Step 11: Input to Email textbox with value: quang3752@gmail.com
+[INFO ] [2022-01-16 09:54:42,186] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 09:54:42,298] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:54:42,523] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 09:54:44,811] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 09:54:44,860]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:54:44,860] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 09:54:47,345] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 09:54:48,565] Register - Step 2: Input to Email textbox with value: quang3752@gmail.com
+[INFO ] [2022-01-16 09:54:48,685] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 09:54:48,794] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 09:54:49,669] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 09:54:49,719]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 09:54:49,719] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 09:54:49,758]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:31:26,598] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 10:31:26,601] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 10:31:26,704]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:31:26,705] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 10:31:26,769]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:31:26,769] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 10:31:28,236] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 10:31:28,322] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 10:31:28,439] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 10:31:28,558] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 10:31:28,640] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 10:31:28,708] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 10:31:28,772] Register - Step 11: Input to Email textbox with value: quang7824@gmail.com
+[INFO ] [2022-01-16 10:31:28,901] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 10:31:29,014] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:31:29,238] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 10:31:31,986] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 10:31:32,034]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:31:32,034] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 10:31:34,004] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 10:31:35,431] Register - Step 2: Input to Email textbox with value: quang7824@gmail.com
+[INFO ] [2022-01-16 10:31:35,551] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:31:35,651] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 10:31:37,726] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 10:31:37,793]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:31:37,793] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 10:31:37,836]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:34:43,291] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 10:34:43,296] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 10:34:43,462]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:34:43,464] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 10:34:43,571]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:34:43,572] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 10:34:45,085] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 10:34:45,209] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 10:34:45,354] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 10:34:45,481] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 10:34:45,569] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 10:34:45,632] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 10:34:45,701] Register - Step 11: Input to Email textbox with value: quang840@gmail.com
+[INFO ] [2022-01-16 10:34:45,846] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 10:34:45,963] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:34:46,201] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 10:34:48,865] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 10:34:48,915]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:34:48,915] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 10:34:51,787] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 10:34:53,194] Register - Step 2: Input to Email textbox with value: quang840@gmail.com
+[INFO ] [2022-01-16 10:34:53,311] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:34:53,414] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 10:34:55,544] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 10:34:55,612]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:34:55,613] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 10:34:55,665]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 10:55:55,145] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 10:55:55,149] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 10:55:55,239]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:55:55,241] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 10:55:55,300]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:55:55,300] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 10:55:57,671] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 10:55:57,754] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 10:55:57,873] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 10:55:57,988] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 10:55:58,069] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 10:55:58,140] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 10:55:58,209] Register - Step 11: Input to Email textbox with value: quang6275@gmail.com
+[INFO ] [2022-01-16 10:55:58,336] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 10:55:58,450] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:55:58,675] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 10:56:00,665] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 10:56:00,714]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:56:00,714] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 10:56:02,682] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 10:56:04,136] Register - Step 2: Input to Email textbox with value: quang6275@gmail.com
+[INFO ] [2022-01-16 10:56:04,247] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 10:56:04,346] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 10:56:05,590] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 10:56:05,650]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 10:56:05,650] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 10:56:05,691]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 11:57:39,830] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 11:57:39,838] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 11:57:39,981]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 11:57:39,982] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 11:57:40,042]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 11:57:40,042] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 11:57:42,754] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 11:57:42,838] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 11:57:42,959] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 11:57:43,078] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 11:57:43,151] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 11:57:43,219] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 11:57:43,302] Register - Step 11: Input to Email textbox with value: quang2865@gmail.com
+[INFO ] [2022-01-16 11:57:43,435] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 11:57:43,550] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 11:57:43,789] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 11:57:45,129] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 11:57:45,179]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 11:57:45,179] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 11:57:47,328] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 11:57:49,042] Register - Step 2: Input to Email textbox with value: quang2865@gmail.com
+[INFO ] [2022-01-16 11:57:49,161] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 11:57:49,263] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 11:57:52,035] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 11:57:52,106]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 11:57:52,107] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 11:57:52,167]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-16 12:16:02,819] Register - Step 1: Open Home Page
+[INFO ] [2022-01-16 12:16:02,824] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-01-16 12:16:02,958]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 12:16:02,961] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-01-16 12:16:03,051]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 12:16:03,051] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-01-16 12:16:05,905] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-01-16 12:16:05,993] Register - Step 6: Input to Firstname textbox with value: quang
+[INFO ] [2022-01-16 12:16:06,113] Register - Step 7: Input to Lastname textbox with value: nguyen
+[INFO ] [2022-01-16 12:16:06,227] Register - Step 8: Select date dropdown
+[INFO ] [2022-01-16 12:16:06,302] Register - Step 9: Select month dropdown
+[INFO ] [2022-01-16 12:16:06,375] Register - Step 10: Select year dropdown
+[INFO ] [2022-01-16 12:16:06,444] Register - Step 11: Input to Email textbox with value: quang8475@gmail.com
+[INFO ] [2022-01-16 12:16:06,573] Register - Step 12: Input to Company textbox with value: quang cong ty
+[INFO ] [2022-01-16 12:16:06,693] Register - Step 13: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 12:16:06,927] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-01-16 12:16:09,612] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-01-16 12:16:09,664]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 12:16:09,664] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-01-16 12:16:11,449] Register - Step 1: Open Login Page
+[INFO ] [2022-01-16 12:16:13,011] Register - Step 2: Input to Email textbox with value: quang8475@gmail.com
+[INFO ] [2022-01-16 12:16:13,141] Register - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-16 12:16:13,259] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-16 12:16:16,247] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-16 12:16:16,363]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-16 12:16:16,363] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-16 12:16:16,441]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-17 09:19:40,853] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:19:42,287] Login - Step 2: Input to Email textbox with value: null
+[INFO ] [2022-01-17 09:19:46,318] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:19:47,679] Login - Step 2: Input to Email textbox with value: null
+[INFO ] [2022-01-17 09:22:37,277] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:22:37,896] Login - Step 2: Input to Email textbox with value: quang5713@gmail.com
+[INFO ] [2022-01-17 09:22:38,024] Login - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-17 09:22:38,141] Login - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-17 09:22:40,582] Login - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-17 09:22:40,642]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:22:40,642] Login - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-17 09:22:40,686]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-17 09:22:45,084] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:22:45,696] Login - Step 2: Input to Email textbox with value: quang5713@gmail.com
+[INFO ] [2022-01-17 09:22:45,828] Login - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-17 09:22:45,932] Login - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-17 09:22:47,482] Login - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-17 09:22:47,540]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:22:47,540] Login - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-17 09:22:47,580]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-01-17 09:24:15,796] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:24:17,136] Login - Step 2: Input to Email textbox with value: quang8599@gmail.com
+[INFO ] [2022-01-17 09:24:17,271] Login - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-17 09:24:17,386] Login - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-17 09:24:19,102] Login - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-17 09:24:19,154]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:24:19,155] Login - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-17 09:24:19,198]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:24:23,722] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:24:25,066] Login - Step 2: Input to Email textbox with value: quang8599@gmail.com
+[INFO ] [2022-01-17 09:24:25,196] Login - Step 3: Input to Password textbox with value: 123456
+[INFO ] [2022-01-17 09:24:25,302] Login - Step 4: Click to Login button at Login page
+[INFO ] [2022-01-17 09:24:27,735] Login - Step 5: Verify My Account link displayed
+[INFO ] [2022-01-17 09:24:27,798]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:24:27,798] Login - Step 6: Verify Log out link displayed
+[INFO ] [2022-01-17 09:24:27,847]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:36:20,683] Login - Step 1: Open Login Page
+[INFO ] [2022-01-17 09:36:20,684] Login - Step 2: Login by Cookie
+[INFO ] [2022-01-17 09:36:20,736] Login - Step 3: Verify My Account link displayed
+[INFO ] [2022-01-17 09:36:22,092]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-01-17 09:36:22,092] Login - Step 4: Verify Log out link displayed
+[INFO ] [2022-01-17 09:36:22,142]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:57:35,811] Register - Step 1: Open Home Page
+[INFO ] [2022-02-10 10:57:35,815] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-10 10:57:35,903]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:57:35,904] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-10 10:57:35,962]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:57:35,962] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-10 10:57:36,509] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-10 10:57:36,608] Register - Step 6: Input to Firstname textbox with value: Isobel
+[INFO ] [2022-02-10 10:57:36,742] Register - Step 7: Input to Lastname textbox with value: O'Conner
+[INFO ] [2022-02-10 10:57:36,859] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-10 10:57:36,924] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-10 10:57:36,985] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-10 10:57:37,040] Register - Step 11: Input to Email textbox with value: arnoldo.bogan@yahoo.com
+[INFO ] [2022-02-10 10:57:37,161] Register - Step 12: Input to Company textbox with value: O'Kon, Leuschke and Kiehn
+[INFO ] [2022-02-10 10:57:37,282] Register - Step 13: Input to Password textbox with value: v7uqbn98kp1mu
+[INFO ] [2022-02-10 10:57:37,559] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-10 10:57:38,422] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-10 10:57:38,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:57:38,466] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-10 10:57:39,438] Register - Step 1: Open Login Page
+[INFO ] [2022-02-10 10:57:40,011] Register - Step 2: Input to Email textbox with value: arnoldo.bogan@yahoo.com
+[INFO ] [2022-02-10 10:57:40,130] Register - Step 3: Input to Password textbox with value: v7uqbn98kp1mu
+[INFO ] [2022-02-10 10:57:40,241] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-10 10:57:41,019] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-10 10:57:41,064]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:57:41,065] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-10 10:57:41,107]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-02-10 10:58:20,757] Register - Step 1: Open Home Page
+[INFO ] [2022-02-10 10:58:20,760] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-10 10:58:20,843]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:58:20,844] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-10 10:58:20,902]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:58:20,903] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-10 10:58:21,436] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-10 10:58:21,523] Register - Step 6: Input to Firstname textbox with value: Scottie
+[INFO ] [2022-02-10 10:58:21,645] Register - Step 7: Input to Lastname textbox with value: Spencer
+[INFO ] [2022-02-10 10:58:21,758] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-10 10:58:21,825] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-10 10:58:21,889] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-10 10:58:21,955] Register - Step 11: Input to Email textbox with value: elicia.kuhn@gmail.com
+[INFO ] [2022-02-10 10:58:22,115] Register - Step 12: Input to Company textbox with value: Torp, Tillman and Smitham
+[INFO ] [2022-02-10 10:58:22,236] Register - Step 13: Input to Password textbox with value: zuu14nbn0
+[INFO ] [2022-02-10 10:58:22,443] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-10 10:58:23,284] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-10 10:58:23,331]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:58:23,331] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-10 10:58:24,214] Register - Step 1: Open Login Page
+[INFO ] [2022-02-10 10:58:24,745] Register - Step 2: Input to Email textbox with value: elicia.kuhn@gmail.com
+[INFO ] [2022-02-10 10:58:24,851] Register - Step 3: Input to Password textbox with value: zuu14nbn0
+[INFO ] [2022-02-10 10:58:24,950] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-10 10:58:25,712] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-10 10:58:25,767]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 10:58:25,767] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-10 10:58:25,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 11:52:58,881] Register - Step 1: Open Home Page
+[INFO ] [2022-02-10 11:52:58,883] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-10 11:52:58,976]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 11:52:58,977] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-10 11:52:59,037]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 11:52:59,037] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-10 11:52:59,559] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-10 11:52:59,658] Register - Step 6: Input to Firstname textbox with value: Leatha
+[INFO ] [2022-02-10 11:52:59,782] Register - Step 7: Input to Lastname textbox with value: Prosacco
+[INFO ] [2022-02-10 11:52:59,904] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-10 11:52:59,970] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-10 11:53:00,038] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-10 11:53:00,104] Register - Step 11: Input to Email textbox with value: beverley.greenfelder@hotmail.com
+[INFO ] [2022-02-10 11:53:00,239] Register - Step 12: Input to Company textbox with value: Cummings LLC
+[INFO ] [2022-02-10 11:53:00,349] Register - Step 13: Input to Password textbox with value: 7ezbt9jks
+[INFO ] [2022-02-10 11:53:00,569] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-10 11:53:01,498] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-10 11:53:01,542]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 11:53:01,542] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-10 11:53:02,480] Register - Step 1: Open Login Page
+[INFO ] [2022-02-10 11:53:03,085] Register - Step 2: Input to Email textbox with value: beverley.greenfelder@hotmail.com
+[INFO ] [2022-02-10 11:53:03,206] Register - Step 3: Input to Password textbox with value: 7ezbt9jks
+[INFO ] [2022-02-10 11:53:03,323] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-10 11:53:04,125] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-10 11:53:04,190]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 11:53:04,190] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-10 11:53:04,239]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 14:35:04,755] Register - Step 1: Open Home Page
+[INFO ] [2022-02-12 14:35:04,798] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-12 14:35:04,899]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 14:35:04,900] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-12 14:35:04,953]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 14:35:04,953] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-12 14:35:05,482] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-12 14:35:05,568] Register - Step 6: Input to Firstname textbox with value: Forrest
+[INFO ] [2022-02-12 14:35:05,685] Register - Step 7: Input to Lastname textbox with value: Harris
+[INFO ] [2022-02-12 14:35:05,801] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-12 14:35:05,866] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-12 14:35:05,928] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-12 14:35:05,993] Register - Step 11: Input to Email textbox with value: roma.schamberger@yahoo.com
+[INFO ] [2022-02-12 14:35:06,124] Register - Step 12: Input to Company textbox with value: Bernhard, Corwin and Kiehn
+[INFO ] [2022-02-12 14:35:06,261] Register - Step 13: Input to Password textbox with value: 61xi5a5mr2j
+[INFO ] [2022-02-12 14:35:06,491] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-12 14:35:07,358] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-12 14:35:07,405]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 14:35:07,405] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-12 14:35:13,157] Register - Step 1: Open Login Page
+[INFO ] [2022-02-12 14:35:13,789] Register - Step 2: Input to Email textbox with value: roma.schamberger@yahoo.com
+[INFO ] [2022-02-12 14:35:13,949] Register - Step 3: Input to Password textbox with value: 61xi5a5mr2j
+[INFO ] [2022-02-12 14:35:14,079] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-12 14:35:14,932] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-12 14:35:15,064]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 14:35:15,064] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-12 14:35:15,271]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:46,960] Register - Step 1: Open Home Page
+[INFO ] [2022-02-12 15:16:46,962] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-12 15:16:47,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:47,080] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-12 15:16:47,141]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:47,141] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-12 15:16:47,730] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-12 15:16:47,857] Register - Step 6: Input to Firstname textbox with value: Eboni
+[INFO ] [2022-02-12 15:16:47,992] Register - Step 7: Input to Lastname textbox with value: Heidenreich
+[INFO ] [2022-02-12 15:16:48,141] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-12 15:16:48,234] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-12 15:16:48,327] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-12 15:16:48,419] Register - Step 11: Input to Email textbox with value: danial.volkman@hotmail.com
+[INFO ] [2022-02-12 15:16:48,577] Register - Step 12: Input to Company textbox with value: Mills Inc
+[INFO ] [2022-02-12 15:16:48,718] Register - Step 13: Input to Password textbox with value: jqjeytsf92
+[INFO ] [2022-02-12 15:16:49,005] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-12 15:16:49,931] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-12 15:16:49,986]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:49,986] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-12 15:16:50,989] Register - Step 1: Open Login Page
+[INFO ] [2022-02-12 15:16:51,571] Register - Step 2: Input to Email textbox with value: danial.volkman@hotmail.com
+[INFO ] [2022-02-12 15:16:51,726] Register - Step 3: Input to Password textbox with value: jqjeytsf92
+[INFO ] [2022-02-12 15:16:51,857] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-12 15:16:52,729] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-12 15:16:52,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:52,816] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-12 15:16:52,878]  -------------------------- PASSED -------------------------- 

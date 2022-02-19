@@ -1,0 +1,27 @@
+[INFO ] [2022-02-12 15:16:46,960] Register - Step 1: Open Home Page
+[INFO ] [2022-02-12 15:16:46,962] Register - Step 2: Verify Register link displayed
+[INFO ] [2022-02-12 15:16:47,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:47,080] Register - Step 3: Verify Login link displayed 
+[INFO ] [2022-02-12 15:16:47,141]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:47,141] Register - Step 4: Click to Register link at home Page
+[INFO ] [2022-02-12 15:16:47,730] Register - Step 5: Click to Gender male radio button
+[INFO ] [2022-02-12 15:16:47,857] Register - Step 6: Input to Firstname textbox with value: Eboni
+[INFO ] [2022-02-12 15:16:47,992] Register - Step 7: Input to Lastname textbox with value: Heidenreich
+[INFO ] [2022-02-12 15:16:48,141] Register - Step 8: Select date dropdown
+[INFO ] [2022-02-12 15:16:48,234] Register - Step 9: Select month dropdown
+[INFO ] [2022-02-12 15:16:48,327] Register - Step 10: Select year dropdown
+[INFO ] [2022-02-12 15:16:48,419] Register - Step 11: Input to Email textbox with value: danial.volkman@hotmail.com
+[INFO ] [2022-02-12 15:16:48,577] Register - Step 12: Input to Company textbox with value: Mills Inc
+[INFO ] [2022-02-12 15:16:48,718] Register - Step 13: Input to Password textbox with value: jqjeytsf92
+[INFO ] [2022-02-12 15:16:49,005] Register - Step 14: Click to Register button at Register page 
+[INFO ] [2022-02-12 15:16:49,931] Register - Step 15: Verify success message displayed 
+[INFO ] [2022-02-12 15:16:49,986]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:49,986] Register - Step 16: Click to Logout link to navigate to Home page 
+[INFO ] [2022-02-12 15:16:50,989] Register - Step 1: Open Login Page
+[INFO ] [2022-02-12 15:16:51,571] Register - Step 2: Input to Email textbox with value: danial.volkman@hotmail.com
+[INFO ] [2022-02-12 15:16:51,726] Register - Step 3: Input to Password textbox with value: jqjeytsf92
+[INFO ] [2022-02-12 15:16:51,857] Register - Step 4: Click to Login button at Login page
+[INFO ] [2022-02-12 15:16:52,729] Register - Step 5: Verify My Account link displayed
+[INFO ] [2022-02-12 15:16:52,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-12 15:16:52,816] Register - Step 6: Verify Log out link displayed
+[INFO ] [2022-02-12 15:16:52,878]  -------------------------- PASSED -------------------------- 

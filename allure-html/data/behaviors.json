@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "User",
+    "children" : [ {
+      "name" : "Login_01_Register",
+      "uid" : "20de6eddf85aecb5",
+      "parentUid" : "8af7184e28aa457354c31b2cdc2fa2fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642309059826,
+        "stop" : 1642309067186,
+        "duration" : 7360
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+    }, {
+      "name" : "TC_02_Login",
+      "uid" : "9d50699db44f03ee",
+      "parentUid" : "8af7184e28aa457354c31b2cdc2fa2fe",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642309067328,
+        "stop" : 1642309072446,
+        "duration" : 5118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome", "https://demo.nopcommerce.com/" ]
+    } ],
+    "uid" : "8af7184e28aa457354c31b2cdc2fa2fe"
+  } ]
+}
